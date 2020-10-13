@@ -21,8 +21,8 @@ In many states, individuals must receive a prescription to carry overdose revers
 
 Individuals receiving training or refills through Prevention Point are required to fill out a questionnaire about their experiences with overdoses and related demographic information.
 
-psp_overdose_events.csv: Information on overdose responses and naloxone administrations.
-pp_refill_events.csv: Information collected at time of naloxone refills of Naloxone at PP.
+- psp_overdose_events.csv: Information on overdose responses and naloxone administrations.
+- pp_refill_events.csv: Information collected at time of naloxone refills of Naloxone at PP.
 
 ## Research Questions
 
