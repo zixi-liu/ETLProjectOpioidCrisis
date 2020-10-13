@@ -13,3 +13,19 @@ Misuse of prescription opioids, CNS depressants, and stimulants is a serious pub
 ## Data
 
 Prescription drug monitoring programs (PDMPs), state-run electronic databases used to track the prescribing and dispensing of controlled prescription drugs to patients, are important tools for preventing and identifying prescription drug misuse.
+
+### Prevention Point
+
+#### Naloxone refill_events
+In many states, individuals must receive a prescription to carry overdose reversal drugs like Narcan (Naloxone). In 2014, Pennsylvania passed legislation allowing any citizen who could be in the position to administer overdose reversal drugs to receive, carry, and administer such drugs. Prevention Point, among other locations, trains and hands out refills for Narcan (Naloxone).  Narcan is an overdose reversal drug administered either intravenously or intranalasally. 
+
+Individuals receiving training or refills through Prevention Point are required to fill out a questionnaire about their experiences with overdoses and related demographic information.
+
+
+### Research Questions
+
+It's very important that we look at the recovery process with regards to building understanding in the general public. We want to know whether prescribing/refilling Narcan could help the patient to survived or not.
+
+Here are things we want to look at when we load data:
+
+We have all naloxone refills of Naloxone at PP and all overdose responses and naloxone administrations in Philadelphia in 2018. We want to build a scheme that contains the number and amount of naloxone refills each month and the survival rate and rate of naloxone administered for overdose incidents each month.
