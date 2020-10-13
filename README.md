@@ -31,3 +31,14 @@ It's very important that we look at the recovery process with regards to buildin
 Here are things we want to look at when we load data:
 
 We have all naloxone refills of Naloxone at PP and all overdose responses and naloxone administrations in Philadelphia in 2018. We want to build a scheme that contains the number and amount of naloxone refills each month and the survival rate and rate of naloxone administered for overdose incidents each month.
+
+## Transform
+
+In order to transform the overdose responses and naloxone refills of Naloxone data and use it in our study we performed the following:
+
+- Performed data cleaning on overdose responses and naloxone refills of Naloxone data (i.e removing missing data and outliers). 
+- Summarized total number of naloxone refills received at PP and total amount of naloxone used by participant by month for year 2018.
+- Summarized survival rate and rate of Naloxone Administered for overdose incidents at PP by month for year 2018.
+- Conducted a merge on incident months and refill months to create a dataframe.
+
+
