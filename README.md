@@ -9,3 +9,7 @@ Misuse of prescription opioids, CNS depressants, and stimulants is a serious pub
 - [Prevention Point](http://www.ppponline.org) works to improve access to and quality of health and human services for underserved and vulnerable populations
 - [Health Federation of Philadelphia](http://www.healthfederation.org) works to improve access to and quality of health and human services for underserved and vulnerable populations
 - City of Philadelphia
+
+## Data
+
+Prescription drug monitoring programs (PDMPs), state-run electronic databases used to track the prescribing and dispensing of controlled prescription drugs to patients, are important tools for preventing and identifying prescription drug misuse.
