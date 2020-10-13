@@ -42,3 +42,6 @@ In order to transform the overdose responses and naloxone refills of Naloxone da
 - Conducted a merge on incident months and refill months to create a dataframe.
 
 
+## Load
+
+We transfered the final dataframe into a Database. We created a database named OpioidData and a table to match the columns from the final dataframe using MySQL server connector to store our clean dataset. We will reconnect to the database and generate additional tables for the data frames.
